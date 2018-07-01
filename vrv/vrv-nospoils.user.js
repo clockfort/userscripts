@@ -2,7 +2,7 @@
 // @name         Hide VRV Spoiler-filled Descriptions from Video Pages
 // @namespace    http://github.com/clockfort/userscripts/vrv/hideSpoilerDescriptions
 // @version      0.1
-// @description  Hides the descriptions from VRV video pages
+// @description  Show VRV descriptions as greyish shadow text that needs to be selected with the mouse to be read properly
 // @author       Chris Lockfort
 // @match        https://vrv.co/watch/*/*
 // @grant        none
