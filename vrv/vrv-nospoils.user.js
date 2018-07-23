@@ -6,10 +6,10 @@
 // @author       Chris Lockfort
 // @match        https://vrv.co/*
 // @grant        none
-// @run-at document-idle
+// @run-at       document-start
 // ==/UserScript==
 
-// @run-at       document-start
+
 
 var css = document.createElement("style")
 css.type = "text/css"
